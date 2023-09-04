@@ -1,2 +1,2 @@
-# supermarket_sales
+# Supermarket_sales
 Supermarket sales data analysis &amp; dashboard 
